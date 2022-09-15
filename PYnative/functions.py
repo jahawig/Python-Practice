@@ -1,4 +1,5 @@
-from ast import arg
+# Python Functions Exercises from PYnative
+# Exercises 1 - 8
 
 # Exercise 1: Create a funciton in Python that takes name and age and prints their value
 def name_and_age(name, age):
